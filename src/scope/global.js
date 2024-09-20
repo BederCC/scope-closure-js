@@ -6,6 +6,7 @@ b = 3; // reasignando la variable
 var a = 30; // redeclarando la variable
 
 // Global scope
+//Cualquier variable en el documento pasara a ser variable global.
 var fruit = 'apple'; // global scope
 
 function bestFruit() {
